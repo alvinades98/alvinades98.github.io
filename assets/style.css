@@ -96,6 +96,12 @@ body{
 	width: 80%;
 	height: 80%;
 }
-
+.footer_background{
+	background-color: rgb(100, 73, 133);
+}
+.footer-tenggah{
+	margin-top: 20px;
+	text-align: center;
+}
 
 
