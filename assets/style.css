@@ -1,0 +1,363 @@
+html, body {
+	max-width: 100%;
+	overflow-x: hidden;
+
+}
+nav{
+	background: rgb(255, 255, 255);
+	color: rgb(1, 2, 3);
+	
+	
+}
+#font_nav{
+	color: #8b8a8a;
+	font-style: oblique;
+	/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,800;1,600;1,900&display=swap'); */
+}
+.navbar-toggler{
+	background-color: rgb(157, 137, 184);
+}
+
+.navbar-item{
+	margin-right: 20px
+}
+.carousel{
+	margin-top: 85px;
+	border-top: solid rgb(86, 63, 116);
+	border-bottom: solid rgb(86, 63, 116);
+}
+body{
+	background: rgb(255, 255, 255);
+	color: #111111;
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+.img-carosel{
+	height: 450px;
+	 width: 100%;
+}
+.judul-atas-awal{
+	font-size: 30px;
+	font-style: oblique;
+	border-bottom:	2px solid rgb(51, 13, 100);
+}
+.figu-atas-awal{
+	margin-top: 10px;
+	font-style: italic;
+	color: rgb(105, 103, 103)
+}
+
+.card-header{
+	color: aliceblue;
+	text-align: center;
+	font-style: oblique;
+	background-color: rgb(51, 13, 100);
+}
+.judul-card{
+	font-size: 20px;
+}
+.kecepatan-card{
+	margin-top: 5px
+}
+.card-body{
+	color: #292929;
+	text-align: center;
+}
+.user-card{
+	border-bottom: 1px solid rgb(65, 24, 119);
+}
+.body-kecepatan-card{
+	font-style: oblique;
+	margin-top: 20px;
+	font-size: 30px;
+}
+.card-footer{
+	text-align: center;
+	background-color: rgb(100, 73, 133);
+}
+.harga-card{
+	font-style: oblique;
+	font-size: 25px;
+	
+}
+.btn-saya-mau{
+	background-color: #f5f5f8;
+	font-style: oblique;
+	margin-bottom: 15px
+}
+.btn-saya-mau:hover{
+	background-color: rgb(100, 73, 133);
+	border: 1px solid #fdfbf7;
+	font-style: oblique;
+	color: #ffffff
+}
+.tulisan-saya-mau{
+	font-style: oblique;
+}
+.ungul-judul{
+	text-align: center;
+	margin-top: 60px
+}
+.judul-ungul{
+	font-style: oblique;
+	font-size: 30px;
+	border-bottom:	2px solid rgb(51, 13, 100);
+	
+}
+.ungul-item-img{
+	margin-left: 50px;
+	width: 400px;
+	height: 350px;
+}
+.item-judul-2{
+	font-size: 25px;
+	font-style: oblique;
+}
+.item-deskripsi{
+	font-size: 20px;
+	font-style: oblique;
+}
+.jarak-item{
+	margin-top: 60px
+}
+.jarak-item-kanan{
+	margin-top: 60px;
+}
+.ct-item-kanan{
+	background-color: #cccccc;
+}
+.bg-kanan{
+	background-color: rgb(232, 235, 235);
+	border-radius: 20px
+}
+.judul-center-1{
+
+}
+.no-telpon-bg
+{
+	background-color: #644985;
+}
+.hub-jarak{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.nomer-kami{
+	font-size: 30px;
+	font-style: oblique;
+}
+.footer_background{
+	background-color: rgb(100, 73, 133);
+}
+.footer-tenggah{
+	margin-top: 20px;
+	text-align: center;
+}
+.judul-footer-tenggah{
+	font-size: 20px;
+	font-style: oblique;
+	margin-bottom: 20px;
+}
+.figur-footer-tenggah{
+	font-size: 15px;
+	font-style: oblique;
+	color: rgb(189, 189, 189);
+}
+.footer-img-tenggah{
+	width: 45px;
+	height: 45px;
+}
+.logo-p-sosial{
+	width: 120px;
+	height: 120px;
+	margin-left: 100px;
+}
+.tenggah-sosial{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	align-items: center;
+}
+.figur-sosial{
+	margin-left: 25px;
+}
+.icon-wa{
+	width: 50px;
+	height: 50px;
+}
+.icon-ig{
+	width: 50px;
+	height: 50px;
+	margin-left: 60px;
+}
+.icon-email{
+	width: 50px;
+	height: 50px;
+	margin-left: 60px;
+}
+.card-atas{
+	background-color: rgb(106, 101, 101);
+}
+/* promo */
+.judul-card-promo{
+	font-size: 25px;
+	font-style: oblique;
+}
+/* promo end */
+
+/* tentang kami */
+.bg-atas-tentang-kami{
+	margin-top: 85px;
+	margin-bottom: 20px;
+	background-color: rgb(100, 73, 133);
+	color: rgb(255, 255, 255);
+	text-align: center;
+	align-items: center;
+}
+.judul-tentang-kami{
+	font-size: 40px;
+	font-style: oblique;
+}
+
+.hubungi-kami{
+	margin-top: 85px;
+}
+.img-tentant-kami{
+	width: 1100px;
+	height: 400px;
+}
+/* tentang kami end */
+
+/* hubungi kami start */
+
+.hubungi-konten{
+	margin-top: 20px;
+	text-align: center;
+	align-items: center;
+	color: rgb(100, 73, 133);
+}
+.hubungi-kami-judul{
+	font-size: 40px;
+	font-style: oblique;
+}
+.map-hub{
+
+	width: 1100px;
+	height: 650px;
+}
+.icon-wa-hub{
+	width: 50px;
+	height: 50px;
+}
+.icon-ig-hub{
+	width: 50px;
+	height: 50px;
+
+}
+.icon-email-hub{
+	width: 50px;
+	height: 50px;
+
+}
+.icon-wa-hub-cp{
+	margin-top: 5px;
+}
+.icon-ig-hub-cp{
+	margin-top: 5px;
+
+}
+.icon-email-hub-cp{
+	margin-top: 5px;
+
+}
+.figur-hubungi{
+	margin-left: 25px;
+}
+/* hubungi kami end */
+
+.text-area-laporan{
+	width: 1100px;
+	height: 200px;
+}
+
+/* Jika ukuran layar 680px atau kurang dari itu */
+
+@media screen and (max-width:680px){
+	.navbar-item{
+		margin-right: -100px
+	}
+	
+	#font_nav{
+		color: #1d1d1d;
+		font-style: oblique;
+		/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,800;1,600;1,900&display=swap'); */
+	}
+	.img-carosel{
+		height: 300px;
+		width: 100%;
+		 
+	}
+	.judul-atas-awal{
+		font-size: 20px;
+		text-align: center
+
+	}
+	.figu-atas-awal{
+		font-size: 13px;
+	}
+	.ungul-item-img{
+		margin-left: 16px;
+		width: 300px;
+		height: 250px;
+	}
+	.judul-center-1{
+		text-align: center
+	}
+	.judul-ungul{
+
+		font-size: 20px;
+
+		
+	}
+	.hub-jarak{
+		text-align: center;
+	}
+	.logo-p-sosial{
+
+		margin-left: 110px;
+	}
+	.figur-sosial{
+		margin-left: 32px;
+	}
+	.img-tentant-kami{
+		width: 320px;
+		height: 100px;
+	}
+	.map-hub{
+
+		width: 330px;
+		height: 450px;
+	}
+	.icon-wa-hub{
+		width: 50px;
+		height: 50px;
+
+	}
+	.icon-ig-hub{
+		width: 50px;
+
+
+	}
+	.icon-email-hub{
+		width: 50px;
+		height: 50px;
+
+	}
+	.figur-hubungi{
+		margin-left: -10px;
+	}
+	.text-area-laporan{
+		width: 330px;
+		height: 350px;
+	}
+	
+}
