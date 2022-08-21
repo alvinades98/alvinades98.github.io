@@ -106,5 +106,9 @@ body{
 .judul-motifasi{
 	border-bottom: rgb(100, 73, 133) solid 2px;
 }
+.brd{
+	border: rgb(100, 73, 133) solid 2px;
+	border-radius: 20px;
+}
 
 
